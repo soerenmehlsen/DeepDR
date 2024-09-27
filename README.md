@@ -3,5 +3,4 @@ This program is made for the final exam in the course BDP.
  
 DeepDR is a Matlab application which can segment different types of lesions
 ## Demo
- ![CleanShot 2024-07-07 at 12 22 29@2x](https://github.com/soerenmehlsen/DeepDR/assets/78858933/f9113f3a-d5e5-435a-b55d-290a7eab5022)
-
+![DEEPDR-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0185705b-d700-439d-ae17-b8780cf2387f)
